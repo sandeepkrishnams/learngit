@@ -1,1 +1,1 @@
-MY PROJECT
+added readme file for git
