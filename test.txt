@@ -1,4 +1,10 @@
 sandeep krishna ms
 gi
+<<<<<<< HEAD
 asdfsd
 fjdsjfhkashdfgit 
+=======
+fjdsjfhkashdfgit 
+
+wqDASD
+>>>>>>> 823e950 (sdf a)
